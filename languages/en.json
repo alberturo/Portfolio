@@ -1,0 +1,18 @@
+{
+    "profile": {
+    "rol": "Front-end developer",
+    "description": "Dynamic web developer skilled at developing solutions, able to work independently or as a team with perfect work ethics and propose new ideas for team's benefit. Enthusiastic to learn and implement any new skills in a given task"
+    },
+    "experience": {
+        "first-job-title": "Front-End Developer - LongDi Petroleum",
+        "first-job-dates": "Dic 2021",
+        "first-job-description": "Web development of official website of the company using MEAN stack",
+        "second-job-title": "Front-End Developer - Blesstom Polymers",
+        "second-job-dates": "Dic 2021",
+        "second-job-description": "Designed and developed a SPA using HTML, CSS3, Bootstrap, JavaScript, Angular"
+    },
+    "projects":{
+        "first-project-title": "",
+        "first-project-description": ""
+    }
+}

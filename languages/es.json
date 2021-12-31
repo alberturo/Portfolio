@@ -1,0 +1,18 @@
+{
+    "profile": {
+    "rol": "Desarrollador Front-end",
+    "description": "Programador web con experiencia aplicada creando sitios oficiales de empresas y comercio electronico. Sentido de responsabilidad, etica y entusiasmo por el aprendizaje. Busco aportar mis conocimientos generando valor para los equipos de trabajo"
+    },
+    "experience": {
+        "first-job-title": "Desarrollador Front-End - LongDi Petroleum",
+        "first-job-dates": "Dic 2021",
+        "first-job-description": "Desarrollo web de sitio oficial de la compañia con MEAN stack",
+        "second-job-title": "Desarrollador Front-End - Blesstom Polymers",
+        "second-job-dates": "Dic 2021",
+        "second-job-description": "Diseño y desarrollo de una SPA aplicando HTML, CSS3, Bootstrap, JavaScript y Angular"
+    },
+    "projects":{
+        "first-project-title": "",
+        "first-project-description": ""
+    }
+}
