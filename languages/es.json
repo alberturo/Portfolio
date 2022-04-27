@@ -12,7 +12,9 @@
         "second-job-description": "Diseño y desarrollo de una SPA aplicando HTML, CSS3, Bootstrap, JavaScript y Angular"
     },
     "projects":{
-        "first-project-title": "",
-        "first-project-description": ""
+        "first-project-title": "ToDo app - React",
+        "first-project-description": "Aplicacion ToDo realizada en React para organizar tareas diarias o tambien listar los pendientes para hacer, es una ayuda para planear las actividades diarias. Se realizô creando componentes, haciendo formulario, se puede crear, editar, actualizar y eliminar el formulario, se usan Hooks ((State, Effect, Context, Customs))",
+        "second-project-title":"Weather app",
+        "second-project-description":"Aplicacion para saber el clima en determinada ciudada en real time. la app hace fetch a una API Rest con Angular y renderiza la presion, humedad y velocidad del viento en la ciudad que se quiera saber el clima."
     }
 }
